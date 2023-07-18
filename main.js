@@ -29,7 +29,7 @@ form.addEventListener("submit", function (event) {
     adicionaLinha();
     atualizaTabela();
   } else {
-    alert("O telefone está incorreto, utilize o formato (XX) X XXXX-XXXX");
+    alert("O telefone está incompleto, siga o exeplo: 43 9 96142131");
   }
 });
 
